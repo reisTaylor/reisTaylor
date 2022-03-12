@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @reisTaylor. I live in Oregon but have lived in 6 states including Texas and every state that touches the Pacific Ocean. 
-     I've also spent six years living in Bangkok, Thailand.
-- 👀 I’m interested in helping my fellow students in the Revature training. 
-- 🌱 I’m currently learning Java, Git CLI utility, and trying to prepare for my upcoming ten-week, intensive training.
-- 💞️ I’m looking to collaborate on whatever projects the Revature trainers assign, where ethical to do so.
+- 👋 Hi, I’m @reisTaylor. I'm making a career pivot from online education to software development.
+- 👀 I’m interested in learning faster, more productive ways of doing things. I hope to find opportunities to help my fellow candidates to successfully complete the Revature       training. 
+- 🌱 I’m currently learning Java, Git CLI, and HTML/CSS with Bootstrap. 
+- 💞️ I’ve been looking forward to the year of the tiger.
 - 📫 How to reach me is through my email: it@teacherreis.com
 
 <!---
