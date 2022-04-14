@@ -1,14 +1,7 @@
-Greetings! My name is Reis Taylor and I'm currently making a career pivot from teacher to Salesforce developer. I’m fascinated with the growth potential of the human mind and often dismayed at my inability to swing a golfclub without slicing the ball to the right. Fun fact: I used up almost every one of the pages in my first US passport by the time I was 24 years old. Now a husband and father, border check-points and cozy hostels have long since been replaced with movie nights and family dinners.
+Greetings! My name is Reis Taylor and I'm currently making a career pivot from teacher to Salesforce developer. As a family man, the decision to pursue a career in software development was helped along by the promise of financial gain, but the promise of money only helped make the decision. What drives me to work as hard as I do, is something else entirely.
 
-Listed below are some of the highlights of my life.
-<ul>
-  <li>Correcting a professor's six-year-old presentation slide on Demorgan's Theorem using a mathematical proof in front of the entire class.</li>
-  <li>Hearing the Oregon Secretary of State say, "I've heard so much about you!" while shaking my hand for the first time.</li>
-  <li>Arriving to the college library one Sunday morning to see most of my fellow Computer Architecture classmates waiting for my study session to begin</li> 
-</ul>
-The best reach me is through my email: it@teacherreis.com, but you can also count on me to pick up the phone if you call.
+Before the degrees in Education and Business, I used to be a Computer Science major. I had excellent grades too. The thrill and outright surprise of finding that I fit in with a room full of highly intelligent peers immediately told me that I'd found the right place. It wasn't long before I found myself applying the leadership and interpersonal skills I'd learned previously to bring value to the group, and with each passing term we became a more effective team. It also became easier to see how I could fit in with and contribute to much larger projects that brought real value to the world.
 
-<!---
-reisTaylor/reisTaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I was about half-way through my program when my wife and I found out that we would soon be parents. 
+
+Being a Computer Science student was important to me, but my wife and I were young. She soon stopped working and my becoming a software engineer was at odds with our more immediate, fundamental duties. It was money that ultimately made that decision, too. I'm becoming a Salesforce developer today because Revature has put me in a position where money is no longer an obstacle to pursue the best version of myself that I've ever met. 
